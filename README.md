@@ -8,7 +8,7 @@
 
 * Learn to use the API
 * Learn about the delegate pattern.
-
+* Swift protocols and extensions.
 
 * Swift computed properties.
 * Swift closures and completion handlers.
